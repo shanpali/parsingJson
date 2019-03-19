@@ -3,17 +3,17 @@
   [
     {
       "id": 1,
-      "title": "Todo 1",
+      "title": "ISTQB course",
       "completed": false
     },
     {
       "id": 2,
-      "title": "Todo 2",
+      "title": "OCJP course",
       "completed": false
     },
     {
       "id": 3,
-      "title": "Todo 3",
+      "title": "OCA course",
       "completed": true
     }
   ]
